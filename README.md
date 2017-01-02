@@ -33,5 +33,7 @@ Screenshots
 
 ![alt tag](https://github.com/hitesh00025/React-Redux-ES6-Sample-App/blob/master/Screen%20Shot%202017-01-02%20at%202.27.49%20PM.png)
 
+### Reference:
+Cory House : http://www.reactjsconsulting.com/
 
 
